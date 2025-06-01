@@ -1,0 +1,1 @@
+This project analyzes employee attrition using HR data from 1,470 employees. Key insights include a 16.12% attrition rate, with Sales and the 25–34 age group showing the highest losses. Males attrite more than females. Insights by department, age, gender, and education field help guide targeted retention strategies and workforce planning.
